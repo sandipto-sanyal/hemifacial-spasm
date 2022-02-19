@@ -26,7 +26,7 @@ dipankar_roy_link = 'https://www.justdial.com/Kolkata/dipankar-roy-Near-Bata-Beh
 eye_consultation1 = """I consulted an opthalmologist in my hometown Kolkata named [Dr. Dipankar Roy](%s).
 During his consultation he told me: **"Eye twitching is NOT a disease. It comes and goes away."**
 """
-eye_consultation1_reaction = """**My Reaction:** Myself coming from a consulting and solution providing background, knew that this is **NOT** how a medical
+eye_consultation1_reaction = """**Reaction:** Myself coming from a consulting and solution providing background, knew that this is **NOT** how a medical
 consultant should speak to his/her patients. This is for the following reasons:\n
 - The patient has not visited the doctor if the problem is not troubling him/her. He is searching for a solution.
 - Something that might not seem to be a problem for the consultant, might be a big problem for the patient/client.
@@ -39,7 +39,7 @@ After the consultation, it was found that I was suffering from severe dry eyes s
 my office air conditioning. Eye twitching is one of the most common symptoms for dry eyes. The doctor prescribed appropriate medicines
 and ointments. He also mentioned that if the twitching doesn't go away I might have to do an MRI to rule out any presence of brain tumor.
 """
-eye_consultation2_reaction = """**My Reaction:** Atleast I could see that the doctor showed genuine interest in the problem that I am facing and
+eye_consultation2_reaction = """**Reaction:** Atleast I could see that the doctor showed genuine interest in the problem that I am facing and
 started the diagnosis of the most common factor. He also didn't rule out extreme factors too. Though I felt that the twitching is a different as it
 used to latch the left side of my face as shown below.
 """
@@ -50,7 +50,7 @@ I went there with all the prescription from Dr. Somnath Majumdar. They treated m
 twitching nor the face latching feeling. That is where the treating doctor at LV Prasad Eye Institute explained me that this seems to be a neurological problem and not an eye problem. The eye problem
 has been eradicated and no need to unnecessarily continue dry eyes medications
 """
-eye_consultation3_reaction = """**My Reaction:** LV Prasad Eye institute gave me a good direction with clear explanation. Hearing that it might be a neurological problem gave me a tension though.
+eye_consultation3_reaction = """**Reaction:** LV Prasad Eye institute gave me a good direction with clear explanation. Hearing that it might be a neurological problem gave me a tension though.
 """
 tension_gif = 'https://media.giphy.com/media/fAVeHfnE4hK1VUyMx6/giphy.gif'
 
@@ -62,7 +62,96 @@ Within 10 minutes I was explained the possible treatments for this disease:\n
 - Use of Botox Injection - the temporary solution lasts for around 4-5 months
 - Micro Vascular Decompression surgery - the permanent one where the surgen enters the affected area from behind the ear and skull and puts a teflon between the offending vessel and nerve complex.
 """
-neuro_consultation1_reaction = """**My Reaction:** I was satisfied the way he explained in precise and concise fashion. Yet the hearing about Neuro Surgery gave me more tension than previous.
-Though I wasn't looking for temporary solutions but permanent one yet neuro surgery wasn't certainly one of them.
+neuro_consultation1_reaction = """**Reaction:** I was satisfied the way he explained in precise and concise fashion. Yet the hearing about Neuro Surgery gave me more tension than previous.
+Though I was looking for a permanent solution to my problem, but neuro surgery wasn't certainly one of them.
 """
 tension_gif2 = 'https://media.giphy.com/media/VInY2XLu6g41nB1x5T/giphy-downsized-large.gif'
+
+ps_das_link = 'https://psdasyogapathy.org/index.html'
+ps_das_consultation = """As I was greatly startled the permanent solution being **Neuro Surgery**, I frantically started looking for alternative options. I landed at yoga consultation of [Prem Sundar Das](%s).
+I was told to do multiple blood tests and turned out to be deficient in Vitamin B12 and D3. PS Das advised me to take Vitamin B12 and D3 supplements and do some facial exercises which he **confidently** assured will cure my disease.
+"""
+ps_das_consultation_reaction = """**Reaction:** After taking the medications the problem seemed to reduce but not eradicated. The reactions were as below:\n
+- Myself and my parents were skeptical about too much consumption of Vitamin medications as high levels without proper monitoring can lead to toxicity. 
+- However this consultation made me aware of work place hazard for IT employees where we are required to stay in office Air Condition for very long hours with less exposure to sunlight. 
+- Somewhere we felt that Dr. PS Das was prevaricating the actual problem. 
+- The facial exercises that were suggested could only be done if and only if the face is not going through the spasm but slowly my condition has become such that even while blinking the spasm was occuring as seen below.
+"""
+
+
+anshuman_link = 'https://www.docton.in/doctor/154/angshuman-mukherjee'
+trishit_link = 'https://www.calcuttayellowpages.com/adver/109661.html'
+neuro_consultation2 = """After seeing no results from the Yogapathy I finally decided to go for surgery only. I went to two famous neurologists in Kolkata - Dr. Anshuman Mukherjee and Dr. Trishit Roy. Both of them suggested only Botox and no surgery was advised.
+Above all they prescribe medicine for **Epilepsy** without doing tests like EEG and/or MRI etc.
+"""
+neuro_consultation2_reaction = """**Reaction:** My cousin sister used to suffer from epileptic fits and was under treatment of Dr. Anshuman Mukherjee. Luckily, we had priori experience about kind of tests that need to be performed before diagnosing with epilepsy. 
+Two points that bugged us:\n
+- I was not having any epileptic seizures as my cousin sister had.
+- If I start epilepsy medicines I will have two more complications:
+    - Suffer from drowsiness during daytime
+    - Very difficult to stop the medication and it might become a long term liability
+"""
+
+anirban_link = 'https://www.sukulhomeopathy.com/'
+homeopathy_consultation = """In life I got another proof of what I believe in: **if you know your aspiration correctly you will find the correct guide at the correct time** when I met Dr. Anirban Sukul. 
+He went saw my condition, checked my previous prescriptions of all the doctors that I consulted and gave me the following three advice:\n
+- Don't take medications neither of epilepsy nor vitamins without test results.
+- There are many different types of epilepsies. He learnt this fact after visiting [NIMHANS Bangalore]({0:s}). Try to visit the place. Whatever they will advice consider it to be the only truth.
+- **Most important:** He also advised me not to revisit him for this problem because he doesn't know what is happening with me. My symptoms are out of his knowledge area and he can not prescribe any medication for me
+"""
+homeopathy_consultation_reaction = """**Reaction:** There are very few people I know who doesn't feel shame to tell the fact the they have inexpertise in something. Dr. Sukul is one of them. For that my respect for him is very high.
+He provided the direction to best neuroscience institute in India without holding me back with unnecessary medications.
+"""
+
+nimhans_link = 'https://nimhans.ac.in/'
+nimhans_consultation = """Just before COVID hit India, I went to NIMHANS in Bangalore. We consulted neurologist in the OPD. They suggested I get my MRI and MRA done at first. 
+NIMHANS though being the best, the bottleneck remains that the doctor who did my consultation at the OPD, will again give appointment after 1 week and not before that. Till that time they prescribed me a light dosage medicine - Lonazep. 
+After 7 days we met with the same doctor. Following were his consultation outcome:\n
+- There is an artery conflicting with the facial nerve which is in line with what Dr. JMK Murthy at Care Hospital Hyderabad mentioned, but this time with confirmatory results and proper test reports.
+- I should consult a neurosurgeon for permanent solution.
+- Since I am from Kolkata, I can also visit [Institute of Neurosciences Kolkata]({0:s}).
+"""
+nimhans_consultation_reaction = """**Reaction:** I was amazed by the system at NIMHANS.\n
+- They are very methodical in their approach in consultation. 
+- They expedite treatements of children very seriously. 
+- The consultation fee at that time was only \u20B920.
+- Even with tremendous crowd pressure, the process of consultation is very smooth and methodical. No queue jumping, no endless waiting. All the crowds are managed in very efficient manner.
+"""
+ink_link = 'https://neurokolkata.org/'
+ampba_link = 'https://www.isb.edu/en/study-isb/advanced-management-programmes/amp/business-analytics.html?utm_source=google&utm_medium=cpc&campaignname=AMPBA_Brand_Search_BMM_IN&adgroupname=Isb-Analytics&keyword=isb%20hyderabad%20business%20analytics&term={term}&creative=435299306363&devicemodel=&target=&device=c&network=g&matchtype=b&placement=&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP1Kf6McG1KiiHt-9-gOy6l0_4GDtKcApRWfnNbW9r_IwJ3WGhIvfWRoCtIUQAvD_BwE&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP1Kf6McG1KiiHt-9-gOy6l0_4GDtKcApRWfnNbW9r_IwJ3WGhIvfWRoCtIUQAvD_BwE'
+dk_pradhan_link = 'https://neurokolkata.org/doctors/dr-dipendra-kumar-pradhan/'
+ink_consultation = """On February 2020, I got myself enrolled in an excecutive programme - 
+[Advanced Management Programme in Business Analytics]({0:s}) conducted by the Indian School of Business Hyderabad due to my career upliftment and aspirations. The course is of duration 1.5 years and was scheduled to be completed by June 2021 had there been no COVID.
+I had prior knowledge about the rigorous nature of the course which requires balancing personal, professional and academic life all at the same time. I was very skeptical about going for surgery during the tenure of this course.\n\n
+We were fortunate enough to meet [Dr. Dipendra Kumar Pradhan]({1:s}) - Consultant Neurosurgeon at Institute of Neurosciences Kolkata (acronym - INK) to whom I explained my situation. He referred to the scan reports from NIMHANS and clearly explained me that the surgery can wait till I complete my studies.
+"""
+ink_consultation_reaction = """**Reaction:** I had a sigh of relief because of the following reasons:\n
+- The disease doesn't involve certain complication which might be requiring immidiate surgery, so I can continue my studies till I am free.
+- Kolkata itself has a very good facility specializing only on Neurosciences based on NIMHANS model.
+- Dr. Pradhan is finally leading me to the permanent solution but giving me time to balance my personal life first.
+So it was study time for me...
+"""
+study_gif = 'https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif'
+
+ink_surgery = """Due to COVID-19 my AMPBA course at Indian School of Business got delayed and finally I could make my time to be admitted at Institute of Neurosciences Kolkata on 9th February 2022 for Micro Vascular Decompression Surgery (MVD) under Dr. Pradhan.
+He had performed the surgery on 10th February which started at around 10 AM and I regained my senses partially at around 5 PM just enough to meet my parents outside the operation theatre. Dr. Pradhan mentioned that the surgery went very efficiently during that time. 
+Even under my partial senses I could feel that the spasms have gone completely!
+"""
+surgery_gif = 'https://media.giphy.com/media/SiJZ0gVrngwJChDaMw/giphy.gif'
+apollo_sindoori_link = 'http://www.apollosindoori.com/'
+ink_stay_experience = """I was in hospital till 14th February 2022 and below are my pointers:\n
+- Dr. Pradhan and his team were awesome, not only in the operation but also in:\n
+    - taking regular feedbacks during the rounds
+    - giving proper medications to stop the post operative complications
+    - meeting my parents during OPD hours to clarify any concerns they were having
+- The staffs at the hospital were amazing. They were so swift in taking actions on any request that I was placing.
+- The food by [Apollo Sindoori]({0:s}) hospitality was very good. They were light, easily digestable and most important the manager what food to suggest to patients given their current condition. On discharge day I was given Jeera Rice and Chicken in lunch.
+"""
+final_thoughts = """As I am writing this blog on 19th February 2022, 5 days after I was discharged from the hospital, I can still feel that the spasm have totally gone. 
+As I am writing this whole blog about my whole journey I feel thankful enough to \n
+- all the healthcare professionals who helped me.
+- my parents as they stayed strong with me throughout the journey.
+- Accenture for providing cashless medical coverage benefit so that financial pressure gets relieved for such a major surgery.
+\n\n
+As you can compare the two videos below, you can see the improvement clearly.
+"""
