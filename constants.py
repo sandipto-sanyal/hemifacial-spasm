@@ -82,7 +82,7 @@ ps_das_consultation_reaction = """**Reaction:** After taking the medications the
 anshuman_link = 'https://www.docton.in/doctor/154/angshuman-mukherjee'
 trishit_link = 'https://www.calcuttayellowpages.com/adver/109661.html'
 neuro_consultation2 = """After seeing no results from the Yogapathy I finally decided to go for surgery only. I went to two famous neurologists in Kolkata - Dr. Anshuman Mukherjee and Dr. Trishit Roy. Both of them suggested only Botox and no surgery was advised.
-Above all they prescribe medicine for **Epilepsy** without doing tests like EEG and/or MRI etc.
+Above all they prescribed medicine for **Epilepsy** without doing tests like EEG and/or MRI etc.
 """
 neuro_consultation2_reaction = """**Reaction:** My cousin sister used to suffer from epileptic fits and was under treatment of Dr. Anshuman Mukherjee. Luckily, we had prior experience about kind of tests that need to be performed before diagnosing with epilepsy. 
 Two points that bugged us:\n
