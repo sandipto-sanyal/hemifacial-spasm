@@ -94,7 +94,7 @@ Two points that bugged us:\n
 
 anirban_link = 'https://www.sukulhomeopathy.com/'
 homeopathy_consultation = """In life I got another proof of what I believe in: **if you know your aspiration correctly you will find the correct guide at the correct time** when I met Dr. Anirban Sukul. 
-He went saw my condition, checked my previous prescriptions of all the doctors that I consulted and gave me the following three advice:\n
+He went saw my condition, checked my previous prescriptions of all the doctors that I consulted and gave me the following three advices:\n
 - Don't take medications neither of epilepsy nor vitamins without test results.
 - There are many different types of epilepsies. He learnt this fact after visiting [NIMHANS Bangalore]({0:s}). Try to visit the place. Whatever they will advice consider it to be the only truth.
 - **Most important:** He also advised me not to revisit him for this problem because he doesn't know what is happening with me. My symptoms are out of his knowledge area and he can not prescribe any medication for me
