@@ -153,5 +153,11 @@ As I am writing this whole blog about my whole journey I feel thankful enough to
 - my parents as they stayed strong with me throughout the journey.
 - Accenture for providing cashless medical coverage benefit so that financial pressure gets relieved for such a major surgery.
 \n\n
-As you can compare the two videos below, you can see the improvement clearly.
+**Key Takeaways**\n
+As I ponder upon the takeaways from my journey against this disease, I would like to jot them down for the readers to be aware of certain things that may help them get the right diagnosis:\n
+- I had a bias against going for neuro-surgery which cause diversion in the treatment in between. We shouldn't keep bias against any kind of surgery if its the only permanent solution to the problem that we as patients are facing. Talk to the consultant surgeon freely, talk about your fears, constraints and doubts. They are there to help you out. Trust them.
+- If at any point of time you feel that the consultant's words and way of treatment seems that he/she is not eager to take up your problem seriously change the consultant immediately. Its highly probable that they are going to divert away from actual root cause of the treatment.
+- Stay strong, take prescribed medications especially after discharge for quick recovery. Don't rely on your superficial knowledge on that.
+\n\n
+Below I share the two videos, first one is taken before the surgery, the second one on 8 days after the surgery.
 """
