@@ -88,7 +88,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('https://psdasyogapathy.org/images/ps.jpg',
              caption='Dr. Prem Sundar Das - PS Das Yogapathy',
-             width=300)
+             width=200)
 with col2:
     st.write(c.ps_das_consultation % c.ps_das_link)
 st.write(c.ps_das_consultation_reaction)
