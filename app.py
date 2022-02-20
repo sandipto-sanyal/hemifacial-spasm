@@ -61,7 +61,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('https://avocure-uploads.s3.amazonaws.com/uploads/clinic/cover_pic_url/122/dr-taraprasad-das-lv-prasad-eye-institute--banjara-hills-hyderabad-ophthalmologists-2rd1m.jpg',
              caption='LV Prasad Eye Institute Hyderabad',
-             width=350)
+             width=325)
 with col2:
     st.write(c.eye_consultation3)
 st.write(c.eye_consultation3_reaction)
