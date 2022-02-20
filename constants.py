@@ -136,7 +136,7 @@ study_gif = 'https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif'
 
 partha_ghosh_link = 'https://neurokolkata.org/doctors/dr-partha-ghosh/'
 ink_surgery = """Due to COVID-19 my AMPBA course at Indian School of Business got delayed and finally I could make my time to be admitted at Institute of Neurosciences Kolkata on 9th February 2022 for Micro Vascular Decompression Surgery (MVD) under [Dr. Pradhan]({0:s}) as primary consultant and [Dr. Partha Ghosh]({1:s}) as seccondary consultant.
-He had performed the surgery on 10th February which started at around 10 AM and I regained my senses partially at around 5 PM just enough to meet my parents outside the operation theatre. Dr. Pradhan mentioned that the surgery went very efficiently during that time. 
+They had performed the surgery on 10th February which started at around 10 AM and I regained my senses partially at around 5 PM just enough to meet my parents outside the operation theatre. Dr. Pradhan mentioned that the surgery went very efficiently during that time. 
 Even under my partial senses I could feel that the spasms have gone completely!
 """
 surgery_gif = 'https://media.giphy.com/media/SiJZ0gVrngwJChDaMw/giphy.gif'
