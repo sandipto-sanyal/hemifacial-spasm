@@ -4,7 +4,7 @@ Created on Fri Feb 18 13:36:22 2022
 
 @author: sandi
 """
-favicon = 'https://health.clevelandclinic.org/wp-content/uploads/sites/3/2014/04/brainFacts-579411100-770x533-1-745x490.jpg'
+favicon = './media/favicon.jpg'
 hfs_gif = 'http://com-neurosurgery-a2.sites.medinfo.ufl.edu/files/2012/04/Knego-hemifacial-spasm.gif'
 start = """In 2017 one evening as I was sitting idly in my room in Pune, which was then my workplace.
 There was a sudden feeling that the left side of my face is getting pulled by some
