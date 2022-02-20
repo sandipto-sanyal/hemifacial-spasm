@@ -12,7 +12,7 @@ def open_local_gifs(path:str):
     return data_url
 
 st.set_page_config(page_title='Hemifacial Spasm Journey', 
-                   page_icon=c.hfs_gif, 
+                   page_icon=c.favicon, 
                    layout="wide", 
                    initial_sidebar_state="auto", 
                    menu_items=None
@@ -21,7 +21,7 @@ st.set_page_config(page_title='Hemifacial Spasm Journey',
 #                                   min_value=2017,
 #                                   max_value=2022
 #                                   )
-st.header('My Journey of with Hemifacial Spasm', anchor='a')
+st.header('My Journey with Hemifacial Spasm', anchor='a')
 st.header('2017 - How it started', 
           # anchor='h1'
           )
@@ -47,11 +47,11 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('https://fortiskolkata.com/assets/uploads/doctors/dr%20somnath.jpg',
              caption='Dr. Somnath Majumdar',
-             width=200)
+             width=175)
 with col2:
     st.write(c.eye_consultation2)
 st.write(c.eye_consultation2_reaction)
-st.image(c.hfs_gif,caption="Hemifacial Spasm", width=250)
+st.image(c.hfs_gif,caption="My Condition", width=250)
 
 
 st.header('2019 - Eye Consultation at [LV Prasad Eye Institute](%s)' % c.lvpei_link, 
@@ -74,7 +74,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('https://www.carehospitals.com/wp-content/uploads/2018/09/Dr.-JMK-Murthy.png',
              caption='Dr. J M K Murthy Care Hospital Hi-Tech City Hyderabad',
-             width=300)
+             width=250)
 with col2:
     st.write(c.neuro_consultation1 % c.jmk_murthy_link)
 st.write(c.neuro_consultation1_reaction)
@@ -88,7 +88,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('https://psdasyogapathy.org/images/ps.jpg',
              caption='Dr. Prem Sundar Das - PS Das Yogapathy',
-             width=200)
+             width=175)
 with col2:
     st.write(c.ps_das_consultation % c.ps_das_link)
 st.write(c.ps_das_consultation_reaction)
@@ -104,12 +104,12 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.image('https://www.docton.in/upload/doctor_files/doctordoc_1566729500.jpg',
              caption='Dr. Anshuman Mukherjee - Neurologist',
-             width=250)
+             width=275)
     
 with col2:
     st.image('./media/trishit.png',
              caption='Dr. Trishit Roy - Neurologist',
-             width=200)
+             width=275)
 with col3:
     st.write(c.neuro_consultation2)
 st.write(c.neuro_consultation2_reaction)
@@ -122,7 +122,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('https://www.sukulhomeopathy.com/images/anirban_sukul.gif',
              caption='Dr. Anirban Sukul - Homeopath',
-             width=300)
+             width=375)
 with col2:
     st.write(c.homeopathy_consultation.format(c.nimhans_link))
 st.write(c.homeopathy_consultation_reaction)
@@ -145,9 +145,9 @@ st.header('2020 - Consultation at [Institute of Neurosciences Kolkata]({})'.form
           )
 col1, col2 = st.columns(2)
 with col1:
-    st.image('https://neurokolkata.org/wp-content/uploads/2019/01/doctor4_-213x230.png',
-             caption='Dr. Dipendra Kumar Pradhan - Institute of Neurosciences Kolkata',
-             width=350)
+    st.image('https://content3.jdmagicbox.com/comp/kolkata/s6/033pxx33.xx33.090718221238.q4s6/catalogue/institute-of-neurosciences-kolkata-park-circus-kolkata-orthopaedic-doctors-bsm4z.jpg?clr=5a460c',
+             caption='Institute Of Neurosciences Kolkata',
+             width=425)
 with col2:
     st.write(c.ink_consultation.format(c.ampba_link, c.dk_pradhan_link))
 st.write(c.ink_consultation_reaction)
@@ -160,16 +160,23 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('https://neurokolkata.org/wp-content/uploads/2019/01/doctor4_-213x230.png',
              caption='Dr. Dipendra Kumar Pradhan - Institute of Neurosciences Kolkata',
-             width=350)
+             width=175)
+    st.image('https://neurokolkata.org/wp-content/uploads/2018/11/Dr.-Partha-Ghosh-213x230.png',
+             caption='Dr. Partha Ghosh - Institute of Neurosciences Kolkata',
+             width=175)
 with col2:
-    st.write(c.ink_surgery)
-    st.image(c.surgery_gif,width=250)
+    st.write(c.ink_surgery.format(c.dk_pradhan_link,c.partha_ghosh_link))
+    st.image(c.surgery_gif,width=350)
 st.write(c.ink_stay_experience.format(c.apollo_sindoori_link))
+st.image(c.yummy_gif,width=250)
 
 st.header('19 February 2022 - Final thoughts',
           # anchor='h12'
           )
 st.write(c.final_thoughts)
+
+st.header('Key Takeaways')
+st.write(c.key_takeaways)
 
 
 col1, col2 = st.columns(2)
