@@ -147,7 +147,7 @@ ink_stay_experience = """I was in hospital till 14th February 2022 and below are
     - giving proper medications to stop the post operative complications
     - meeting my parents during OPD hours to clarify any concerns they were having
 - The staffs at the hospital were amazing. They were so swift in taking actions on any request that I was placing.
-- The food provided by [Apollo Sindoori]({0:s}) hospitality was very good. They were light, easily digestable and most importantly, the manager efficiently handled the task of suggesting the right type of food to patients by judging the each patients' condition. On discharge day I was given Jeera Rice and Chicken in lunch \U0001F92A.
+- The food provided by [Apollo Sindoori]({0:s}) hospitality was very good. They were light, easily digestable and most importantly, the manager efficiently handled the task of suggesting the right type of food to patients by judging the patients' condition. On discharge day I was given Jeera Rice and Chicken in lunch \U0001F92A.
 """
 yummy_gif = 'https://media.giphy.com/media/QWAs6BUQmoZiMFVzW9/giphy.gif'
 
